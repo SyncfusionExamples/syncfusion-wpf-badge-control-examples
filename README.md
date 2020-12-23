@@ -27,6 +27,6 @@ This repository contains the samples that demonstrate the functionalities of WPF
   <td><a href="Samples/Badge_Control">Change opacity of Badge</a></td>
  </tr>
  <tr>
-   <td><a href="Samples/Custom_Alignment">Alignment of Badge</a></td>
+   <td><a href="Samples/Custom_Alignment">Custom Alignment and Positioning of Badge</a></td>
  </tr>
 </table>
